@@ -2,7 +2,7 @@ import streamlit
 import pandas
 
 
-streamlit.title("My xXZXZX")
+streamlit.title("My IOT")
 
 streamlit.header('Breakfast Favorites')
 streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
